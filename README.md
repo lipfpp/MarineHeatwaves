@@ -4,3 +4,15 @@
 
 Esta rotina tem como finalidade visualizar quais regiões estão sob maior ocorrência dos eventos de Marine Heawaves.
 
+
+<hr style="border:1px solid lightblue"> </hr>
+
+**Bibliotecas usadas**
+
+* numpy
+* pandas
+* xarray
+* os
+* pylab
+* 
+
