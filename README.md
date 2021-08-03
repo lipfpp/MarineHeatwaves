@@ -14,5 +14,6 @@ Esta rotina tem como finalidade visualizar quais regiões estão sob maior ocorr
 * xarray
 * os
 * pylab
-* 
-
+* matplotlib
+* cartopy
+* datetime
